@@ -22,9 +22,9 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Webflow">
-    <link href="css/normalize.css" rel="stylesheet" type="text/css">
-    <link href="css/webflow.css" rel="stylesheet" type="text/css">
-    <link href="css/instagram-business-a31ab8.webflow.css" rel="stylesheet" type="text/css">
+    <link href="css/normalize.css?v=1.2" rel="stylesheet" type="text/css">
+    <link href="css/webflow.css?v=1.2" rel="stylesheet" type="text/css">
+    <link href="css/instagram-business-a31ab8.webflow.css?v=1.2" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>

@@ -3843,6 +3843,7 @@ figcaption {
     font-weight: 500;
     display: flex;
     position: relative;
+    overflow: hidden;
   }
 
   .mentor_image-wrap {
@@ -3851,7 +3852,7 @@ figcaption {
     top: auto;
     bottom: 0%;
     left: auto;
-    right: 0%;
+    right: -10vw;
     overflow: hidden;
   }
 

@@ -3850,9 +3850,9 @@ figcaption {
     border-radius: 4.44vw;
     position: absolute;
     top: auto;
-    bottom: 0%;
+    bottom: 2vw;
     left: auto;
-    right: -10vw;
+    right: -18vw;
     overflow: hidden;
     z-index: 1;
   }

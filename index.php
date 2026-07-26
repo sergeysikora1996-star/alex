@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+<html lang="uk" data-wf-page="663db87da9d22364899fceaf" data-wf-site="65e79368b833ff23c39f9616">
+<head>
+    <meta charset="utf-8">
+    <title>Зароби перші 400$</title>
+    <meta name="description" content="Отримай додаткові гроші вже за 7-10 днів без стартового капіталу, вміння знімати контент та досвіду, приділяючи 40 хвилин в день">
+
+    <!-- Обновленные мета-теги Open Graph и Twitter -->
+    <meta property="og:title" content="Зароби перші 400$">
+    <meta property="og:description" content="Отримай додаткові гроші вже за 7-10 днів без стартового капіталу, вміння знімати контент та досвіду, приділяючи 40 хвилин в день">
+    <meta property="og:image" content="https://trendmarket24-7.space/images/new_image.webp">
+    <meta property="twitter:title" content="Зароби перші 400$">
+    <meta property="twitter:description" content="Отримай додаткові гроші вже за 7-10 днів без стартового капіталу, вміння знімати контент та досвіду, приділяючи 40 хвилин в день">
+    <meta property="twitter:image" content="https://trendmarket24-7.space/images/new_image.webp">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!-- Тег для предотвращения кэширования -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Webflow">
+    <link href="css/normalize.css?v=1.2" rel="stylesheet" type="text/css">
+    <link href="css/webflow.css?v=1.2" rel="stylesheet" type="text/css">
+    <link href="css/instagram-business-a31ab8.webflow.css?v=1.2" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        WebFont.load({
+            google: {
+                families: ["Inter Tight:200,300,regular,500,600,700,800:cyrillic,latin"]
+            }
+        });
+    </script>
+    <script type="text/javascript">
+        !function(o,c){
+            var n=c.documentElement,t=" w-mod-";
+            n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")
+        }(window,document);
+    </script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
+<style>
+body, html{
+    overflow-x: hidden;
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.success_wrap::-webkit-scrollbar {
+	display: none;
+}
+/* Hide scrollbar for IE, Edge and Firefox */
+.success_wrap {
+	-ms-overflow-style: none;  /* IE and Edge */
+	scrollbar-width: none;  /* Firefox */
+}
+</style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+  <style>
+  :root {
+    --swiper-theme-color: #666;
+  }
+</style>
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.7.2/plyr.css">
+  <style>
+html {
+  --plyr-color-main: white;
+  --plyr-tab-focus-color: transparent;
+  --plyr-video-control-color-hover: black;
+  --plyr-control-icon-size: 1.5em;
+  --plyr-range-thumb-height: 0px;
+  --plyr-range-track-height: 0.6em;
+}
+.plyr__control--overlaid {
+  color: black;
+}
+.plyr__volume {
+  width: auto;
+  min-width: auto;
+  max-width: auto;
+}
+.plyr {
+  width: 100%;
+  height: 100%;
+}
+.plyr video {
+  object-fit: cover;
+}
+.contain-video video {
+  object-fit: contain;
+}
+.hide-cover .plyr_cover {
+  opacity: 0;
+  pointer-events: none;
+}
+.hide-cover .plyr_cover-img {
+  transform: scale(1.4);
+}
+ .mentor_image-wrap {
+    margin-left: 40px !important;
+  }
+
+  @media screen and (max-width: 480px) {
+    .mentor_image-wrap {
+      margin-left: 20px !important;
+    }
+  }
+</style>
+  <!--  [Finsweet Attributes] Modal  -->
+  <script>(()=>{var t="https://cdn.jsdelivr.net/npm/@finsweet/attributes-modal@1/modal.js",e=document.querySelector(`script[src="${t}"]`);e||(e=document.createElement("script"),e.async=!0,e.src=t,document.head.append(e));})();</script>
+</head>
+<body>
+  <div class="page-wrapper">
+    <div class="global-styles w-embed w-iframe">
+      <style>
+/* Make text look crisper and more legible in all browsers */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+/* Focus state style for keyboard navigation for the focusable elements */
+*[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+   outline: 0.125rem solid #4d65ff;
+   outline-offset: 0.125rem;
+}
+/* Set color style to inherit */
+.inherit-color * {
+    color: inherit;
+}
+/* Get rid of top margin on first element in any rich text element */
+.w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+  margin-top: 0 !important;
+}
+/* Get rid of bottom margin on last element in any rich text element */
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0 !important;
+}
+/* Make sure containers never lose their center alignment */
+.container-medium,.container-small, .container-large {
+	margin-right: auto !important;
+  margin-left: auto !important;
+}
+/* 
+Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+*/
+/*
+a,
+.w-input,
+.w-select,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+*/
+/* Apply "..." after 3 lines of text */
+.text-style-3lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+/* Apply "..." after 2 lines of text */
+.text-style-2lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+/* Adds inline flex display */
+.display-inlineflex {
+  display: inline-flex;
+}
+/* These classes are never overwritten */
+.hide {
+  display: none !important;
+}
+@media screen and (max-width: 991px) {
+    .hide, .hide-tablet {
+        display: none !important;
+    }
+}
+  @media screen and (max-width: 767px) {
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+}
+  @media screen and (max-width: 479px) {
+    .hide-mobile{
+      display: none !important;
+    }
+}
+.margin-0 {
+  margin: 0rem !important;
+}
+.padding-0 {
+  padding: 0rem !important;
+}
+.spacing-clean {
+padding: 0rem !important;
+margin: 0rem !important;
+}
+.margin-top {
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+.padding-top {
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+.margin-right {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+.padding-right {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+.margin-bottom {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+.padding-bottom {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+.margin-left {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+.padding-left {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+.margin-horizontal {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+.padding-horizontal {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+.margin-vertical {
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+.padding-vertical {
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+</style>
+    </div>
+    <main class="main-wrapper is-hero">
+      <div class="header">
+        <div class="padding-global">
+          <div class="header_text"><span class="text-weight-semibold">ВПЕРШЕ! НАВЧАННЯ ВІД ЛЮДИНИ ЯКА Є ВЛАСНИКОМ БІЗНЕСУ</div>
+        </div>
+      </div>
+      <section class="section-hero">
+        <div class="padding-global">
+          <div class="padding-section-medium is-hero">
+            <div class="hero">
+              <div class="hero_icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none">
+                  <path d="M5.4197 0.913948C5.27626 0.915553 5.13629 0.958256 5.01638 1.03699C3.41784 2.05777 2.05863 3.41698 1.03786 5.01551C0.930767 5.18321 0.894677 5.38659 0.937532 5.5809C0.980387 5.77522 1.09868 5.94455 1.26638 6.05164C1.43408 6.15874 1.63746 6.19483 1.83177 6.15198C2.02609 6.10912 2.19542 5.99083 2.30251 5.82313C3.20574 4.40866 4.40953 3.20487 5.824 2.30164C5.96336 2.21533 6.07062 2.08573 6.12935 1.93268C6.18807 1.77962 6.19504 1.61155 6.14919 1.45416C6.10334 1.29677 6.00718 1.15874 5.87544 1.06118C5.7437 0.963617 5.58362 0.911903 5.4197 0.913948ZM18.5593 0.913948C18.3973 0.91676 18.2406 0.971955 18.1126 1.07127C17.9846 1.17059 17.8922 1.30869 17.8492 1.46492C17.8062 1.62114 17.8149 1.78708 17.8741 1.93791C17.9333 2.08874 18.0398 2.21635 18.1775 2.30164C19.592 3.20487 20.7958 4.40866 21.699 5.82313C21.752 5.90617 21.8209 5.97795 21.9017 6.03437C21.9824 6.09079 22.0735 6.13076 22.1697 6.15198C22.266 6.1732 22.3654 6.17526 22.4624 6.15804C22.5594 6.14083 22.6521 6.10467 22.7351 6.05164C22.8182 5.99861 22.8899 5.92975 22.9464 5.84898C23.0028 5.76821 23.0428 5.67712 23.064 5.5809C23.0852 5.48469 23.0873 5.38524 23.07 5.28823C23.0528 5.19122 23.0167 5.09855 22.9636 5.01551C21.9429 3.41698 20.5837 2.05777 18.9851 1.03699C18.8588 0.954027 18.7104 0.911139 18.5593 0.913948ZM12.0008 1.99989C6.47775 1.99989 2.00075 6.47689 2.00075 11.9999C2.00075 15.0006 3.32876 17.6855 5.42165 19.5184L4.22048 20.7196C4.1485 20.7887 4.09104 20.8715 4.05145 20.9631C4.01186 21.0547 3.99095 21.1533 3.98993 21.253C3.98892 21.3528 4.00783 21.4518 4.04554 21.5442C4.08326 21.6366 4.13903 21.7205 4.20959 21.7911C4.28015 21.8616 4.36407 21.9174 4.45646 21.9551C4.54884 21.9928 4.64782 22.0117 4.7476 22.0107C4.84738 22.0097 4.94595 21.9888 5.03755 21.9492C5.12914 21.9096 5.21192 21.8521 5.28103 21.7802L6.63357 20.4276C8.18539 21.418 10.0233 21.9999 12.0008 21.9999C13.9783 21.9999 15.8161 21.418 17.3679 20.4276L18.7205 21.7802C18.7896 21.8521 18.8724 21.9096 18.964 21.9492C19.0556 21.9888 19.1541 22.0097 19.2539 22.0107C19.3537 22.0117 19.4527 21.9928 19.5451 21.9551C19.6374 21.9174 19.7214 21.8616 19.7919 21.7911C19.8625 21.7205 19.9183 21.6366 19.956 21.5442C19.9937 21.4518 20.0126 21.3528 20.0116 21.253C20.0106 21.1533 19.9896 21.0547 19.9501 20.9631C19.9105 20.8715 19.853 20.7887 19.781 20.7196L18.5799 19.5184C20.6728 17.6855 22.0008 15.0006 22.0008 11.9999C22.0008 6.47689 17.5238 1.99989 12.0008 1.99989ZM11.2508 5.99989C11.6648 5.99989 12.0008 6.33539 12.0008 6.74989V11.9999H15.2508C15.6648 11.9999 16.0008 12.3354 16.0008 12.7499C16.0008 13.1644 15.6648 13.4999 15.2508 13.4999H11.2508C10.8368 13.4999 10.5008 13.1644 10.5008 12.7499V6.74989C10.5008 6.33539 10.8368 5.99989 11.2508 5.99989Z" fill="#E5BA66"></path>
+                  <path d="M5.4197 0.913948C5.27626 0.915553 5.13629 0.958256 5.01638 1.03699C3.41784 2.05777 2.05863 3.41698 1.03786 5.01551C0.930767 5.18321 0.894677 5.38659 0.937532 5.5809C0.980387 5.77522 1.09868 5.94455 1.26638 6.05164C1.43408 6.15874 1.63746 6.19483 1.83177 6.15198C2.02609 6.10912 2.19542 5.99083 2.30251 5.82313C3.20574 4.40866 4.40953 3.20487 5.824 2.30164C5.96336 2.21533 6.07062 2.08573 6.12935 1.93268C6.18807 1.77962 6.19504 1.61155 6.14919 1.45416C6.10334 1.29677 6.00718 1.15874 5.87544 1.06118C5.7437 0.963617 5.58362 0.911903 5.4197 0.913948ZM18.5593 0.913948C18.3973 0.91676 18.2406 0.971955 18.1126 1.07127C17.9846 1.17059 17.8922 1.30869 17.8492 1.46492C17.8062 1.62114 17.8149 1.78708 17.8741 1.93791C17.9333 2.08874 18.0398 2.21635 18.1775 2.30164C19.592 3.20487 20.7958 4.40866 21.699 5.82313C21.752 5.90617 21.8209 5.97795 21.9017 6.03437C21.9824 6.09079 22.0735 6.13076 22.1697 6.15198C22.266 6.1732 22.3654 6.17526 22.4624 6.15804C22.5594 6.14083 22.6521 6.10467 22.7351 6.05164C22.8182 5.99861 22.8899 5.92975 22.9464 5.84898C23.0028 5.76821 23.0428 5.67712 23.064 5.5809C23.0852 5.48469 23.0873 5.38524 23.07 5.28823C23.0528 5.19122 23.0167 5.09855 22.9636 5.01551C21.9429 3.41698 20.5837 2.05777 18.9851 1.03699C18.8588 0.954027 18.7104 0.911139 18.5593 0.913948ZM12.0008 1.99989C6.47775 1.99989 2.00075 6.47689 2.00075 11.9999C2.00075 15.0006 3.32876 17.6855 5.42165 19.5184L4.22048 20.7196C4.1485 20.7887 4.09104 20.8715 4.05145 20.9631C4.01186 21.0547 3.99095 21.1533 3.98993 21.253C3.98892 21.3528 4.00783 21.4518 4.04554 21.5442C4.08326 21.6366 4.13903 21.7205 4.20959 21.7911C4.28015 21.8616 4.36407 21.9174 4.45646 21.9551C4.54884 21.9928 4.64782 22.0117 4.7476 22.0107C4.84738 22.0097 4.94595 21.9888 5.03755 21.9492C5.12914 21.9096 5.21192 21.8521 5.28103 21.7802L6.63357 20.4276C8.18539 21.418 10.0233 21.9999 12.0008 21.9999C13.9783 21.9999 15.8161 21.418 17.3679 20.4276L18.7205 21.7802C18.7896 21.8521 18.8724 21.9096 18.964 21.9492C19.0556 21.9888 19.1541 22.0097 19.2539 22.0107C19.3537 22.0117 19.4527 21.9928 19.5451 21.9551C19.6374 21.9174 19.7214 21.8616 19.7919 21.7911C19.8625 21.7205 19.9183 21.6366 19.956 21.5442C19.9937 21.4518 20.0126 21.3528 20.0116 21.253C20.0106 21.1533 19.9896 21.0547 19.9501 20.9631C19.9105 20.8715 19.853 20.7887 19.781 20.7196L18.5799 19.5184C20.6728 17.6855 22.0008 15.0006 22.0008 11.9999C22.0008 6.47689 17.5238 1.99989 12.0008 1.99989ZM11.2508 5.99989C11.6648 5.99989 12.0008 6.33539 12.0008 6.74989V11.9999H15.2508C15.6648 11.9999 16.0008 12.3354 16.0008 12.7499C16.0008 13.1644 15.6648 13.4999 15.2508 13.4999H11.2508C10.8368 13.4999 10.5008 13.1644 10.5008 12.7499V6.74989C10.5008 6.33539 10.8368 5.99989 11.2508 5.99989Z" fill="url(#paint0_linear_59_998)"></path>
+                  <defs>
+                    <lineargradient id="paint0_linear_59_998" x1="0.919922" y1="0.913818" x2="21.2977" y2="25.9225" gradientunits="userSpaceOnUse">
+                      <stop stop-color="#D9D9D9"></stop>
+                      <stop offset="0.0001" stop-color="#7300E4"></stop>
+                      <stop offset="0.455965" stop-color="#E300A4"></stop>
+                      <stop offset="1" stop-color="#FFB763"></stop>
+                    </lineargradient>
+                  </defs>
+                </svg></div>
+              <div class="hero_date_wrap">
+                <div class="hero_date_title">Старт</div>
+                <div class="hero_date_text textwebinar">22 лютого</div>
+                <div class="hero_date_bg">
+                  <div class="hero_date_bg_element is-01"></div>
+                  <div class="hero_date_bg_svg w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 95 60" fill="none">
+                      <g clip-path="url(#clip0_2002_335)">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M48 24C55.6522 24 62.4679 20.4187 66.8626 14.8409C73.8147 6.01697 77.2908 1.60502 78.9447 0.802512C80.5986 0 83.0658 0 88 0H199C206.542 0 210.314 0 212.657 2.34315C215 4.68629 215 8.45753 215 16V44C215 51.5425 215 55.3137 212.657 57.6569C210.314 60 206.542 60 199 60H-104C-111.542 60 -115.314 60 -117.657 57.6569C-120 55.3137 -120 51.5425 -120 44V16C-120 8.45753 -120 4.68629 -117.657 2.34315C-115.314 0 -111.542 0 -104 0H8C12.9342 0 15.4014 0 17.0553 0.802513C18.7093 1.60503 22.1853 6.01697 29.1374 14.8408C33.5321 20.4187 40.3478 24 48 24Z" fill="white"></path>
+                      </g>
+                      <defs>
+                        <clippath id="clip0_2002_335">
+                          <rect width="95" height="60" fill="white"></rect>
+                        </clippath>
+                      </defs>
+                    </svg></div>
+                  <div class="hero_date_bg_element is-02"></div>
+                </div>
+              </div>
+              <h1 class="hero_title">Зароби перші <span class="hero_title_span">400$ на Instagram бізнесі за 10 днів</span></h1>
+              <div class="hero_list-content">
+                <div class="hero_list">
+                  <div class="about_card-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16" fill="none">
+                      <path d="M12.0007 4L4.66732 11.3333L1.33398 8" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                      <path d="M14.666 6.66675L9.66602 11.6667L8.66602 10.6667" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg></div>
+                  <div>Приділяючи 2 години на день</div>
+                </div>
+                <div class="hero_list">
+                  <div class="about_card-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16" fill="none">
+                      <path d="M12.0007 4L4.66732 11.3333L1.33398 8" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                      <path d="M14.666 6.66675L9.66602 11.6667L8.66602 10.6667" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg></div>
+                  <div>Без вміння щось продавати</div>
+                </div>
+                <div class="hero_list">
+                  <div class="about_card-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16" fill="none">
+                      <path d="M12.0007 4L4.66732 11.3333L1.33398 8" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                      <path d="M14.666 6.66675L9.66602 11.6667L8.66602 10.6667" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg></div>
+                  <div>Без стартового капіталу</div>
+                </div>
+                <div class="hero_list">
+                  <div class="about_card-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16" fill="none">
+                      <path d="M12.0007 4L4.66732 11.3333L1.33398 8" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                      <path d="M14.666 6.66675L9.66602 11.6667L8.66602 10.6667" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg></div>
+                  <div>Працюючи навіть з основної роботи</div>
+                </div>
+              </div>
+              <div class="hero_image_wrap-copy"><img src="images/1111.jpg" loading="lazy" width="70" sizes="(max-width: 479px) 100vw, 70px" alt="" srcset="images/1111.jpg 500w, images/1111.jpg 800w, images/1111.jpg 840w" class="hero_image is-margen"></div>
+              <a aria-roledescription="open-modal-trigger" class="button fs_modal-2_button is-hero w-inline-block" href="shvidkij-start-4@utm_source.html#" target="_blank" role="button" aria-haspopup="dialog" aria-controls="fs-modal-2-popup" fs-modal-element="open-1" aria-expanded="false" tabindex="0">
+                <div><span class="text-weight-normal">ПРИДБАТИ ЗА 290 грн</span>  <br><span class="text-weight-bold">ЗАМІСТЬ 3000 грн</span></div>
+              </a>
+        </div>
+      </section>
+      <section class="section-timer-cta-hero">
+        <div class="padding-section-medium is-timer-cta-hero">
+          <div class="timer-cta_title">ЗНИЖКА ЗАКІНЧИТЬСЯ ЧЕРЕЗ</div>
+          <div class="timer-text">00:00:00</div>
+        </div>
+      </section>
+      <section class="section-program">
+        <div class="padding-global">
+          <div class="padding-section-medium">
+            <div class="heading">
+              <div class="heading_dot"></div>
+              <h2>ПРОГРАМА <br>НАВЧАННЯ</h2>
+            </div>
+            <div class="program">
+              <div class="program_card">
+                <div class="program_card-heading">
+                  <div class="program_card_heading_text">01 урок</div>
+                  <h3>Чому в Instagram легко заробляти і може навчитись кожний</h3><img src="images/01-1.webp" loading="lazy" width="70" alt="" class="program_card_heading_image">
+                </div>
+                <div class="program_content">
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[01]</div>
+                    <div class="program_content_row_text">Чому саме зараз найкращий час для початку бізнесу в Instagram?</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[02]</div>
+                    <div class="program_content_row_text">Розповідаємо які навички потрібні, щоб запус вашого бізнесу був успішний</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[03]</div>
+                    <div class="program_content_row_text">Гарантуємо результат після навчання</div>
+                  </div>
+                </div>
+              </div>
+              <div class="program_card">
+                <div class="program_card-heading">
+                  <div class="program_card_heading_text">02 урок</div>
+                  <h3>Як новачку вибрати нішу та прибутковий товар</h3><img src="images/program-02.webp" loading="lazy" width="70" alt="" class="program_card_heading_image">
+                </div>
+                <div class="program_content">
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[01]</div>
+                    <div class="program_content_row_text">Пояснюємо з чого складається успішний бізнес в Instagram</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[02]</div>
+                    <div class="program_content_row_text">Палим тренди та фішки про які ніхто не розповідає</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[03]</div>
+                    <div class="program_content_row_text">Надаєм вигідних постачальників та вчимо як з ними працювати</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[04]</div>
+                    <div class="program_content_row_text">Показуємо як ставити ціль по заробітку та прорахувати майбутній прибуток</div>
+                  </div>
+                </div>
+              </div>
+              <div class="program_card">
+                <div class="program_card-heading">
+                  <div class="program_card_heading_text">03 урок</div>
+                  <h3>СТВОРЮЄМО ексклюзивний INSTAGRAM МАГАЗИН</h3><img src="images/program-03.webp" loading="lazy" width="70" alt="" class="program_card_heading_image">
+                </div>
+                <div class="program_content">
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[01]</div>
+                    <div class="program_content_row_text">Оформлення яке буде вас виділяти серед конкурентів</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[02]</div>
+                    <div class="program_content_row_text">Показуємо приклад сторінки яка приносить 90 тис. грн на місяць та розбираємо його</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[03]</div>
+                    <div class="program_content_row_text">Показуємо схему, яка допомагає знаходити креативи, що будуть працювати, не створюючи їх самостійно</div>
+                  </div>
+                </div>
+              </div>
+              <div class="program_card">
+                <div class="program_card-heading">
+                  <div class="program_card_heading_text">04 урок</div>
+                  <h3>Секрет прибуткової реклами: як із $10 зробити $1000</h3><img src="images/program-04.webp" loading="lazy" width="70" alt="" class="program_card_heading_image">
+                </div>
+                <div class="program_content">
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[01]</div>
+                    <div class="program_content_row_text">Інструкція першого запуску реклами для новачків яка складається з основи таргету простими словами</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[02]</div>
+                    <div class="program_content_row_text">Аналіз конкурентів</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[03]</div>
+                    <div class="program_content_row_text">Правильно вчимо аналізувати рекламні показники, щоб реклама приносила максимальний прибуток</div>
+                  </div>
+                </div>
+              </div>
+              <div class="program_card">
+                <div class="program_card-heading">
+                  <div class="program_card_heading_text">05 урок</div>
+                  <h3>Скрипт продаж <br>в переписках</h3><img src="images/05.webp" loading="lazy" width="70" alt="" class="program_card_heading_image is-05">
+                </div>
+                <div class="program_content">
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[01]</div>
+                    <div class="program_content_row_text">Пройдімося по основних етапах переписок, які принесуть вам перші 400$</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[02]</div>
+                    <div class="program_content_row_text">Даємо готовий покроковий скрипт за яким можна продати будь-який товар</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[03]</div>
+                    <div class="program_content_row_text">Розберемо всі аспекти продажів, пропрацюємо всі помилки які допускають новачки</div>
+                  </div>
+                </div>
+              </div>
+              <div class="section-timer-cta_wrap">
+                <div class="section-timer-cta is-program">
+                  <div class="padding-section-medium is-timer-cta is-program">
+                    <div class="form_component is-program w-form">
+                      <form id="wf-form-Form---shvidkij-start_3" name="wf-form-Form---shvidkij-start_3" data-name="Form - shvidkij-start_3" method="post" class="form_form" data-wf-page-id="663db87da9d22364899fceaf" data-wf-element-id="9a957db1-8568-5b7f-0362-af902b5a313d">
+                        <div class="form-program_heading">
+                          <h2 class="form-program_title">Зачекай, <span class="text-color-blue">це вже коштує більше ніж 290 грн,</span> я серйозно</h2>
+                          <div class="icon-24 w-embed"><svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M12 0C9.62663 0 7.30655 0.703787 5.33316 2.02236C3.35977 3.34094 1.8217 5.21508 0.913451 7.4078C0.00519935 9.60051 -0.232441 12.0133 0.230582 14.3411C0.693604 16.6688 1.83649 18.807 3.51472 20.4853C5.19295 22.1635 7.33115 23.3064 9.65892 23.7694C11.9867 24.2324 14.3995 23.9948 16.5922 23.0865C18.7849 22.1783 20.6591 20.6402 21.9776 18.6668C23.2962 16.6934 24 14.3734 24 12C23.9965 8.81848 22.7311 5.76829 20.4814 3.51862C18.2317 1.26894 15.1815 0.00352914 12 0ZM12 18.6667C11.7363 18.6667 11.4785 18.5885 11.2592 18.442C11.04 18.2954 10.8691 18.0872 10.7682 17.8436C10.6672 17.5999 10.6408 17.3318 10.6923 17.0732C10.7437 16.8146 10.8707 16.577 11.0572 16.3905C11.2437 16.2041 11.4812 16.0771 11.7399 16.0256C11.9985 15.9742 12.2666 16.0006 12.5102 16.1015C12.7539 16.2024 12.9621 16.3733 13.1086 16.5926C13.2551 16.8118 13.3333 17.0696 13.3333 17.3333C13.3333 17.6869 13.1929 18.0261 12.9428 18.2761C12.6928 18.5262 12.3536 18.6667 12 18.6667ZM13.3333 13.3333C13.3333 13.687 13.1929 14.0261 12.9428 14.2761C12.6928 14.5262 12.3536 14.6667 12 14.6667C11.6464 14.6667 11.3072 14.5262 11.0572 14.2761C10.8071 14.0261 10.6667 13.687 10.6667 13.3333V6.66666C10.6667 6.31304 10.8071 5.9739 11.0572 5.72386C11.3072 5.47381 11.6464 5.33333 12 5.33333C12.3536 5.33333 12.6928 5.47381 12.9428 5.72386C13.1929 5.9739 13.3333 6.31304 13.3333 6.66666V13.3333Z" fill="#3026E9"></path>
+                            </svg></div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="program_card">
+                <div class="program_card-heading">
+                  <div class="program_card_heading_text">06 урок</div>
+                  <h3>Покрокова-стратегія <br>виходу на 90 000 грн</h3><img src="images/06.webp" loading="lazy" width="70" alt="" class="program_card_heading_image is-06">
+                </div>
+                <div class="program_content">
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[01]</div>
+                    <div class="program_content_row_text">Надаємо покрокову інструкцію за якою наші студенти заробляють щомісяця</div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[02]</div>
+                    <div class="program_content_row_text">Організовуємо запуск магазину: від вибору товару до перших продажів </div>
+                  </div>
+                  <div class="program_content_row">
+                    <div class="program_content_row_number">[03]</div>
+                    <div class="program_content_row_text">Приберемо страх, який заважає заробляти гроші, та працювати на себе</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section-for">
+        <div class="padding-global">
+          <div class="padding-section-large is-for">
+            <div class="heading">
+              <div class="heading_dot"></div>
+              <h2>ЦЕ НАВЧАННЯ ДЛЯ <br>ТИХ, ХТО ХОЧЕ:</h2>
+            </div>
+            <div class="for_wrap">
+              <div class="for_card">
+                <div class="for_card_image-wrap"><img src="images/for-01.webp" loading="lazy" alt="" class="for_card_image"></div>
+                <div class="for_card_text"><span class="text-weight-semibold">Отримати <br>додатковий дохід</span> працюючи на основній роботі</div>
+              </div>
+              <div class="for_card">
+                <div class="for_card_image-wrap"><img src="images/for-02.webp" loading="lazy" alt="" class="for_card_image"></div>
+                <div class="for_card_text"><span class="text-weight-semibold">Володіти <br>вміннями</span> та знаннями які будуть<br>приносити достойні <br>гроші і задоволення від роботи</div>
+              </div>
+              <div class="for_card">
+                <div class="for_card_image-wrap"><img src="images/for-03.webp" loading="lazy" alt="" class="for_card_image"></div>
+                <div class="for_card_text"><span class="text-weight-semibold">Втілити всі свої мріїї<br>та мати власний бізнес </span> який буде працювати <br>без вас</div>
+              </div>
+              <div class="for_card is-last">
+                <div class="for_card_image-wrap"><img src="images/for-05.webp" loading="lazy" alt="" class="for_card_image"></div>
+                <div class="for_card_text"><span class="text-weight-semibold">Запустити <br>власну</span> справу <br>Ні від кого не <br>залежати</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div id="cta" class="cta-anchor">
+        <section class="section-cta">
+          <div class="padding-global is-cta">
+            <div class="form_component w-form">
+              <form id="wf-form-CTA-Form" name="wf-form-CTA-Form" data-name="CTA Form" method="post" class="form_form" data-wf-page-id="663db87da9d22364899fceaf" data-wf-element-id="17d9c4fa-e2a3-365a-18c8-1ec0b781dfd4"><img loading="lazy" src="images/badge.svg" alt="" class="cta_badge">
+                <div class="cta_text">Реєструйся та отримайте доступ <span class="text-weight-semibold">ПРЯМО ЗАРАЗ</span></div>
+                <h2 class="cta_title">НАВЧАННЯ БУДЕ ДОСТУПНЕ ПІСЛЯ ОПЛАТИ</h2>
+                <div class="cta_price">
+                  <div class="cta_price_small">3000 ₴</div>
+                  <div class="cta_price_big">290 ₴</div>
+                </div>
+                <a aria-roledescription="open-modal-trigger" class="button w-button" href="shvidkij-start-4@utm_source.html#" target="_blank" role="button" aria-haspopup="dialog" aria-controls="fs-modal-2-popup" fs-modal-element="open-1" aria-expanded="false" tabindex="0">Отримати доступ</a>
+              </form>
+              <div class="form_message-success w-form-done">
+                <h2 class="cta_title is-success">Дякуємо! <br>Ваша заявка отримана!</h2>
+              </div>
+              <div class="w-form-fail">
+                <div>Oops! Something went wrong while submitting the form.</div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <section class="section-timer">
+        <div class="padding-global is-cta">
+          <div class="padding-section-large is-timer">
+            <div class="timer">
+              <div class="timer_title">До закінчення акції залишилось:</div>
+              <div class="timer-text">00:00:00</div>
+              <div class="timer_divider"></div>
+              <div class="timer_text"><span class="text-weight-semibold">P.S. Ви нічим не ризикуєте!</span><br> Гарантія повернення коштів - 14 днів,<br> якщо курс Вам не підійде</div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section-bonuses">
+        <div class="padding-global">
+          <div class="padding-section-medium">
+            <div class="heading">
+              <div class="heading_dot"></div>
+              <h2>3 ДОДАТКОВІ БОНУСИ -  В ПОДАРУНОК 🎁</h2>
+            </div>
+            <div class="bonuses">
+              <div class="bonuses_card">
+                <div class="bonuses_card_heading">
+                  <div class="card_heading_image-wrap"><img src="images/1.webp" loading="lazy" width="90" alt="" class="card_heading_image"></div>
+                  <h3>Список<br>«10 найкращих ніш для Instagram»</h3>
+                </div>
+              </div>
+              <div class="bonuses_card">
+                <div class="bonuses_card_heading">
+                  <div class="card_heading_image-wrap"><img src="images/2_1.webp" loading="lazy" width="90" alt="" class="card_heading_image"></div>
+                  <h3>Інструкція як створювати вірусний контент який зробить вас відомим</h3>
+                </div>
+              </div>
+              <div class="bonuses_card">
+                <div class="bonuses_card_heading">
+                  <div class="card_heading_image-wrap"><img src="images/3_1.webp" loading="lazy" width="90" alt="" class="card_heading_image"></div>
+                  <h3>Урок від професійного Таргетолога по запуску таргетованої реклами</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+          </div>
+        </div>
+      </section>
+      <section class="section-timer-cta">
+        <div class="padding-section-medium is-timer-cta"><img src="images/timer-cta-badge.svg" loading="lazy" alt="" class="timer-cta_badge">
+          <div class="timer-cta_title">ЗНИЖКА ЗАКІНЧИТЬСЯ ЧЕРЕЗ</div>
+          <div class="timer-text">00:00:00</div>
+          <div class="button-wrap is-timer-cta">
+            <a aria-roledescription="open-modal-trigger" class="button w-inline-block" href="shvidkij-start-4@utm_source.html#" target="_blank" role="button" aria-haspopup="dialog" aria-controls="fs-modal-2-popup" fs-modal-element="open-1" aria-expanded="false" tabindex="0">
+              <div><span class="text-weight-normal">Взяти участь</span> за 290 грн</div>
+            </a>
+            <div class="button-shadow"></div>
+          </div>
+        </div>
+      </section>
+      <section class="section-plan">
+        <div class="padding-global">
+          <div class="padding-section-medium">
+            <div class="heading">
+              <div class="heading_dot"></div>
+              <h2>ЯК БУДЕ ПРОХОДИТИ НАВЧАННЯ</h2>
+            </div>
+            <div class="plan_list">
+              <div class="plan_card">
+                <div class="card_heading_image-wrap"><img src="images/plan-01.webp" loading="lazy" width="90" alt="" class="card_heading_image is-100">
+                  <div class="card_heading_image_number">01</div>
+                </div>
+                <div class="card_content">
+                  <h3 class="plan_card_title">Покрокові відеоуроки <br>з інструкцією</h3>
+                  <div class="plan_card_paragraph">Весь матеріал<br>зможете передивлятись безліч разів<br>в Телеграмі</div>
+                </div>
+              </div>
+              <div class="plan_card">
+                <div class="card_heading_image-wrap"><img src="images/03.webp" loading="lazy" width="90" alt="" class="card_heading_image is-100">
+                  <div class="card_heading_image_number">02</div>
+                </div>
+                <div class="card_content">
+                  <h3 class="plan_card_title">Зідзвон із ментором</h3>
+                  <div class="plan_card_paragraph">У вас буде зідзвон 1 на 1</div>
+                </div>
+      </section>
+      <section class="section-mentor">
+        <div class="padding-global">
+          <div class="padding-section-medium is-mentor is-size"><img src="images/mentor-text.webp" loading="lazy" width="70" alt="" class="mentor_image-text is-none">
+            <div class="heading">
+              <div class="heading_dot"></div>
+              <h2>Ведучий курсу</h2>
+            </div>
+            <div class="mentor_list">
+              <div class="mentor_name">
+                <div class="icon-20 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewbox="0 0 20 21" fill="none">
+                    <g clip-path="url(#clip0_59_1439)">
+                      <path d="M18.617 8.92376C18.3602 8.7514 18.1284 8.54465 17.9279 8.30922C17.9428 7.98145 18.0086 7.65801 18.1232 7.35057C18.3384 6.62183 18.6065 5.71488 18.0898 5.0052C17.5694 4.28987 16.6187 4.26586 15.8549 4.24634C15.5336 4.25917 15.2122 4.22462 14.901 4.14378C14.7298 3.87536 14.5992 3.58321 14.5132 3.2767C14.2583 2.55091 13.9409 1.64757 13.0906 1.37127C12.2656 1.10313 11.5253 1.61256 10.8724 2.06054C10.6101 2.27001 10.3155 2.43559 10.0002 2.55087C9.68476 2.43572 9.39005 2.27011 9.12766 2.06054C8.4748 1.61217 7.73422 1.10435 6.90942 1.37127C6.05942 1.64757 5.74204 2.55045 5.4869 3.2764C5.40108 3.58137 5.27185 3.87244 5.10319 4.14064C4.79097 4.22393 4.46795 4.25946 4.1451 4.24604C3.38135 4.26553 2.43064 4.28958 1.91022 5.00487C1.39354 5.71494 1.66161 6.62189 1.87689 7.3507C1.99007 7.65653 2.05654 7.97764 2.07403 8.30329C1.87443 8.54202 1.64169 8.751 1.38291 8.9238C0.766667 9.39376 0 9.97884 0 10.8842C0 11.7896 0.766667 12.3747 1.38304 12.8447C1.63976 13.017 1.87164 13.2238 2.07212 13.4592C2.05723 13.787 1.99135 14.1104 1.87682 14.4179C1.66158 15.1466 1.39348 16.0536 1.91015 16.7632C2.43057 17.4785 3.38129 17.5026 4.14507 17.5221C4.46638 17.5093 4.78779 17.5438 5.09903 17.6247C5.27015 17.8931 5.40082 18.1853 5.48681 18.4918C5.74195 19.2177 6.05932 20.1209 6.90951 20.3973C7.06013 20.4467 7.21767 20.4718 7.37619 20.4718C8.01606 20.4718 8.60035 20.0701 9.12773 19.708C9.39008 19.4985 9.68463 19.3329 9.99997 19.2175C10.3154 19.3327 10.6101 19.4983 10.8726 19.7079C11.5254 20.1563 12.2658 20.6637 13.0908 20.3972C13.9408 20.1209 14.2582 19.218 14.5133 18.492C14.5991 18.187 14.7284 17.896 14.897 17.6278C15.2093 17.5445 15.5323 17.509 15.8551 17.5224C16.6189 17.5029 17.5696 17.4788 18.09 16.7636C18.6067 16.0535 18.3386 15.1465 18.1233 14.4177C18.0102 14.1119 17.9437 13.7908 17.9262 13.4651C18.1258 13.2264 18.3585 13.0174 18.6173 12.8446C19.2333 12.3747 20 11.7896 20 10.8842C20 9.97884 19.2333 9.39376 18.617 8.92376ZM13.7142 9.39008L9.54752 13.5567C9.22221 13.8821 8.69471 13.8822 8.36929 13.5569C8.36923 13.5569 8.36916 13.5568 8.3691 13.5567L6.28576 11.4734C5.95621 11.1521 5.94952 10.6245 6.27079 10.295C6.59207 9.96542 7.11968 9.95873 7.44922 10.28C7.45427 10.2849 7.45926 10.2899 7.46418 10.295L8.95831 11.7891L12.5358 8.21162C12.8571 7.88208 13.3847 7.87542 13.7142 8.1967C14.0438 8.51797 14.0504 9.04558 13.7291 9.37512C13.7242 9.38021 13.7192 9.38516 13.7142 9.39008Z" fill="white"></path>
+                    </g>
+                    <defs>
+                      <clippath id="clip0_59_1439">
+                        <rect width="20" height="20" fill="white" transform="translate(0 0.884766)"></rect>
+                      </clippath>
+                    </defs>
+                  </svg></div>
+                <div>Олександр Герасимчук</div>
+              </div>
+              <div class="mentor_card">
+                <div class="icon-16 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewbox="0 0 16 17" fill="none">
+                    <path d="M12.0007 4.88477L4.66732 12.2181L1.33398 8.88477" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M14.666 7.55176L9.66602 12.5518L8.66602 11.5518" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></div>
+                <div>Людина,<br> яка на власному<br>прикладі<br> показала,<br>як створювати<br> прибутковий<br>бізнес під час <br>війни</div>
+                <div class="mentor_image-wrap"><img src="images/1.PNG" loading="lazy" width="70" sizes="(max-width: 479px) 46vw, 70px" alt="" srcset="images/1.PNG 500w, images/1.PNG 512w" class="mentor_image is-size"></div>
+              </div>
+              <div class="mentor_card">
+                <div class="icon-16 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewbox="0 0 16 17" fill="none">
+                    <path d="M12.0007 4.88477L4.66732 12.2181L1.33398 8.88477" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M14.666 7.55176L9.66602 12.5518L8.66602 11.5518" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></div>
+                <div>Інвестув десятки тисяч доларів в рекламний бюджет</div>
+              </div>
+              <div class="mentor_card">
+                <div class="icon-16 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewbox="0 0 16 17" fill="none">
+                    <path d="M12.0007 4.88477L4.66732 12.2181L1.33398 8.88477" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M14.666 7.55176L9.66602 12.5518L8.66602 11.5518" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></div>
+                <div>Знайшов найприбутковішу методологію заробітку в Instagram</div>
+              </div>
+              <div class="mentor_card">
+                <div class="icon-16 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewbox="0 0 16 17" fill="none">
+                    <path d="M12.0007 4.88477L4.66732 12.2181L1.33398 8.88477" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M14.666 7.55176L9.66602 12.5518L8.66602 11.5518" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></div>
+                <div>Олександр власник найсмачнішого магазину в Україні із продажу натурального меду @med_optom.ua</div>
+              </div>
+              <div class="mentor_card">
+                <div class="icon-16 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewbox="0 0 16 17" fill="none">
+                    <path d="M12.0007 4.88477L4.66732 12.2181L1.33398 8.88477" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M14.666 7.55176L9.66602 12.5518L8.66602 11.5518" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></div>
+                <div>Створив сильний особистий бренд із складним продуктом, який сам себе не продає</div>
+              </div>
+              <div class="mentor_card">
+                <div class="icon-16 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewbox="0 0 16 17" fill="none">
+                    <path d="M12.0007 4.88477L4.66732 12.2181L1.33398 8.88477" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M14.666 7.55176L9.66602 12.5518L8.66602 11.5518" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></div>
+                <div>Рекламу Олександра бачив кожен українець хоча б раз</div>
+              </div>
+              <div class="mentor_card">
+                <div class="icon-16 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewbox="0 0 16 17" fill="none">
+                    <path d="M12.0007 4.88477L4.66732 12.2181L1.33398 8.88477" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M14.666 7.55176L9.66602 12.5518L8.66602 11.5518" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></div>
+                <div>Разом з учнями створив та запустив десятки прибуткових магазинів</div>
+              </div>
+              <div class="mentor_card">
+                <div class="icon-16 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewbox="0 0 16 17" fill="none">
+                    <path d="M12.0007 4.88477L4.66732 12.2181L1.33398 8.88477" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M14.666 7.55176L9.66602 12.5518L8.66602 11.5518" stroke="#3026E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></div>
+                <div>Про інші напрямки Олександра ви дізнаєтесь на самому курсі тому що вони секретні</div>
+              </div>
+            </div>
+            
+            <div class="mentor_speach">
+              <div class="mentor_speach_icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="21" viewbox="0 0 28 21" fill="none">
+                  <path d="M0 20.4473L5.84375 0.947266H12.375L9.625 20.4473H0ZM15.0312 20.4473L20.875 0.947266H27.4062L24.6562 20.4473H15.0312Z" fill="#D9D9D9"></path>
+                </svg></div>
+              <p class="mentor_speach_text">Прямо зараз скористайся<span class="text-weight-semibold"> можливістю,</span> яка змінить твоє життя назавжди. Пропоную покроковий план зі створення твого бізнесу в Instagram. <br><br><span class="text-weight-semibold">За 5 років </span> я разом з учнями <span class="text-weight-semibold">працювали з тисячами бізнесів</span> створив та протестував буквально <span class="text-weight-semibold">всі ніші та інструменти,</span> які дозволяють збільшити дохід. <br><br>У результаті <span class="text-weight-semibold"> ми знайшли методологію</span>, яка складається з конкретних дій, що гарантують результат. <br><br>Протягом 5 років я інвестував <span class="text-weight-semibold">у своє навчання більше 15 тисяч доларів, не рахуючи власного важкого досвіду</span>, за який доводилося платити ще більше. Прямо зараз у вас є можливість заощадити свій час та кошти й отримати все просто <span class="text-weight-semibold">за 0,1% від вартості</span>.<br><br>Кращої нагоди <span class="text-weight-semibold">може і не бути!</span> Дійте прямо зараз. Бо я не знаю, чи довго я буду ділитися такими безцінними знаннями саме за таку ціну. <span class="text-weight-semibold">Не зволікайте, поки є можливість.</span></p>
+              <div class="mentor_speach_icon is-02 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="21" viewbox="0 0 28 21" fill="none">
+                  <path d="M0 20.4473L5.84375 0.947266H12.375L9.625 20.4473H0ZM15.0312 20.4473L20.875 0.947266H27.4062L24.6562 20.4473H15.0312Z" fill="#D9D9D9"></path>
+                </svg></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section-faq">
+        <div class="padding-global">
+          <div class="padding-section-medium is-faq">
+            <div class="heading">
+              <div class="heading_dot"></div>
+              <h2>ЧАСТІ ЗАПИТАННЯ?</h2>
+            </div>
+            <div class="faq_list">
+              <div class="faq_card">
+                <h3 id="w-node-_008dfd38-9246-7b01-64bb-6fa0a4799a81-899fceaf" class="faq_card_title">А якщо я не зможу розібратися?</h3>
+                <div id="w-node-_2e2795a6-33ac-693a-2782-b4a19fab4b71-899fceaf" class="icon-10 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="10" height="11" viewbox="0 0 10 11" fill="none">
+                    <g clip-path="url(#clip0_59_934)">
+                      <path d="M1 5.69727H9" stroke="#0A0A35" stroke-linecap="round" stroke-linejoin="round"></path>
+                      <path d="M5 1.69727L9 5.69727L5 9.69727" stroke="#0A0A35" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <defs>
+                      <clippath id="clip0_59_934">
+                        <rect width="10" height="10" fill="white" transform="translate(0 0.697266)"></rect>
+                      </clippath>
+                    </defs>
+                  </svg></div>
+                <p id="w-node-_4e78e076-ebab-a063-a497-6c8ca74fed0f-899fceaf" class="faq_card_paragraph">Ну якщо я простий хлопець із села, з населенням 1000 людей розібрався- то і ви зможете. <br><br>Я надам все у максимально простій формі, а ще у вас буде &quot;підтримка куратора&quot;, який відповість на питання та допоможе точно не заплутатися.</p>
+                <div id="w-node-_99a088e1-6fb6-75d9-3d43-96fcbef0709f-899fceaf" class="faq_card_emoji">🤔</div>
+              </div>
+              <div class="faq_card">
+                <h3 id="w-node-_39197ef2-4f9b-607c-7076-505e8e4b3795-899fceaf" class="faq_card_title">А у мене вистачить часу?</h3>
+                <div id="w-node-_39197ef2-4f9b-607c-7076-505e8e4b3797-899fceaf" class="icon-10 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="10" height="11" viewbox="0 0 10 11" fill="none">
+                    <g clip-path="url(#clip0_59_934)">
+                      <path d="M1 5.69727H9" stroke="#0A0A35" stroke-linecap="round" stroke-linejoin="round"></path>
+                      <path d="M5 1.69727L9 5.69727L5 9.69727" stroke="#0A0A35" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <defs>
+                      <clippath id="clip0_59_934">
+                        <rect width="10" height="10" fill="white" transform="translate(0 0.697266)"></rect>
+                      </clippath>
+                    </defs>
+                  </svg></div>
+                <p id="w-node-_39197ef2-4f9b-607c-7076-505e8e4b3798-899fceaf" class="faq_card_paragraph">Для навчання вистачить 30 хвилин на день тоді, коли тобі зручно - хоч зранку, хоч в обідню перерву, хоч вночі.  І можна буде передивитися навчання кілька разів. Це буде класна підготовка до бізнесу, де також доведеться виділяти 1-2 годину на день, щоб заробляти.</p>
+                <div id="w-node-_39197ef2-4f9b-607c-7076-505e8e4b379d-899fceaf" class="faq_card_emoji">⏳</div>
+              </div>
+              <div class="faq_card">
+                <h3 id="w-node-a53527e5-c8c8-7c1c-7ea6-84bc61dabd2c-899fceaf" class="faq_card_title">Які <br>гарантії?</h3>
+                <div id="w-node-a53527e5-c8c8-7c1c-7ea6-84bc61dabd2e-899fceaf" class="icon-10 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="10" height="11" viewbox="0 0 10 11" fill="none">
+                    <g clip-path="url(#clip0_59_934)">
+                      <path d="M1 5.69727H9" stroke="#0A0A35" stroke-linecap="round" stroke-linejoin="round"></path>
+                      <path d="M5 1.69727L9 5.69727L5 9.69727" stroke="#0A0A35" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <defs>
+                      <clippath id="clip0_59_934">
+                        <rect width="10" height="10" fill="white" transform="translate(0 0.697266)"></rect>
+                      </clippath>
+                    </defs>
+                  </svg></div>
+                <p id="w-node-a53527e5-c8c8-7c1c-7ea6-84bc61dabd2f-899fceaf" class="faq_card_paragraph">Наша команада дуже розраховує на ваші гарні відгуки, та рекомендації, тому ми дуже постаралися вкласти в цей курс максимум корисної інформації з власного досвіду та досвіду наших колег.</p>
+                <div id="w-node-a53527e5-c8c8-7c1c-7ea6-84bc61dabd34-899fceaf" class="faq_card_emoji">🛡</div>
+              </div>
+              <div class="faq_card">
+                <h3 id="w-node-bd1fe59e-171c-0a90-ee51-d1c8d42628b8-899fceaf" class="faq_card_title">А чи час зараз відкривати бізнес?</h3>
+                <div id="w-node-bd1fe59e-171c-0a90-ee51-d1c8d42628ba-899fceaf" class="icon-10 w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="10" height="11" viewbox="0 0 10 11" fill="none">
+                    <g clip-path="url(#clip0_59_934)">
+                      <path d="M1 5.69727H9" stroke="#0A0A35" stroke-linecap="round" stroke-linejoin="round"></path>
+                      <path d="M5 1.69727L9 5.69727L5 9.69727" stroke="#0A0A35" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <defs>
+                      <clippath id="clip0_59_934">
+                        <rect width="10" height="10" fill="white" transform="translate(0 0.697266)"></rect>
+                      </clippath>
+                    </defs>
+                  </svg></div>
+                <p id="w-node-bd1fe59e-171c-0a90-ee51-d1c8d42628bb-899fceaf" class="faq_card_paragraph">Війна в країні. <br>Я на власному прикладі в курсі розкажу як саме під час війни зробити найбільше зростання бізнесу. І це я не розповідав про те, що Instagram-бізнес можна розвивати і на закордонному ринку. Тож можливостей безліч головне почати і зачепитись за щось.</p>
+                <div id="w-node-bd1fe59e-171c-0a90-ee51-d1c8d42628c0-899fceaf" class="faq_card_emoji">🤑</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section-support">
+        <div class="padding-section-medium support_wrap">
+          <h2>Це навчання<br><span class="text-weight-normal">створенно<br> виключно <br>для Українців</span></h2>
+          <div class="support_subtitle"><span class="support_text_emoji">✌🏻</span>Мета курсу - підняти економіку нашої країни!</span></div>
+          <div class="button-wrap">
+            <a aria-roledescription="open-modal-trigger" class="button w-inline-block" href="shvidkij-start-4@utm_source." target="_blank" role="button" aria-haspopup="dialog" aria-controls="fs-modal-2-popup" fs-modal-element="open-1" aria-expanded="false" tabindex="0">
+              <div>Взяти участь</div>
+            </a>
+            <div class="button-shadow"></div>
+          </div>
+          <div class="support_text">Навчання буде доступне <span class="text-weight-semibold"> після оплати</span></div>
+        </div><img src="images/map.webp" loading="lazy" width="70" alt="" class="support_image">
+      </section>
+      <footer class="footer-component">
+        <div class="padding-global-2">
+          <div class="container-large-2">
+            <div class="w-layout-grid footer_wrapper">
+              <div id="w-node-_83cfaaf2-3891-f033-2535-3e07155e80d4-899fceaf" class="footer_left-wrapper">
+                <div id="w-node-_83cfaaf2-3891-f033-2535-3e07155e80d5-899fceaf" class="footer_logo"><img src="images" loading="lazy" alt="" class="footer_logo-image"></div>
+                <div class="padding-bottom padding-xsmall"></div>
+                <div id="w-node-_83cfaaf2-3891-f033-2535-3e07155e80d8-899fceaf" class="footer_organization">
+                  </div>
+                </div>
+        </div>
+      </footer>
+      <section class="section_button_mobile">
+        <div class="padding-global-3">
+          <div class="container-large-2">
+            <div class="button_mobile">
+              <div class="button-wrap is-hero">
+                <a aria-roledescription="open-modal-trigger" class="button fs_modal-2_button w-inline-block" href="shvidkij-start-4@utm_source.html#" target="_blank" role="button" aria-haspopup="dialog" aria-controls="fs-modal-2-popup" fs-modal-element="open-1" aria-expanded="false" tabindex="0">
+                  <div><span class="text-weight-normal">ПРИДБАТИ ЗА 290 грн</span>  <br><span class="text-weight-bold">ЗАМІСТЬ 3000 грн</span></div>
+                </a>
+                <div class="button-shadow"></div>
+              </div>
+            </div>
+            <div class="w-embed w-script">
+              <script>
+document.addEventListener('DOMContentLoaded', function() {
+    var sectionButtonMobile = document.querySelector('.section_button_mobile');
+    var windowWidth = window.innerWidth;
+    // Проверяем ширину окна при загрузке страницы
+    if (windowWidth > 478) {
+        // Если ширина окна > 478 пикселей, скрываем блок
+        sectionButtonMobile.style.display = 'none';
+    }
+    window.addEventListener('scroll', function() {
+        var scrollPosition = window.scrollY;
+        var windowWidth = window.innerWidth;
+        // Проверяем ширину окна
+        if (windowWidth <= 478) {
+            // Если ширина окна <= 478 пикселей, проверяем положение прокрутки
+            if (scrollPosition > 20000) {
+                // Если прокрутка больше 1000 пикселей, скрываем блок
+                sectionButtonMobile.style.display = 'none';
+            } else {
+                // Если прокрутка меньше или равна 1000 пикселям, показываем блок
+                sectionButtonMobile.style.display = 'block';
+            }
+        } else {
+            // Если ширина окна > 478 пикселей, скрываем блок
+            sectionButtonMobile.style.display = 'none';
+        }
+    });
+});
+</script>
+</div>
+</div>
+</div>
+</section>
+</main>
+<div class="fs_modal-2_component">
+<div id="fs-modal-2-popup" fs-modal-element="modal-1" role="dialog" aria-modal="true" aria-labelledby="fs-modal-2-heading" class="fs_modal-2_popup">
+<div aria-hidden="true" fs-modal-element="close-1" class="fs_modal-2_cover"></div>
+<div class="fs_modal-2_wrapper" style="max-width: 600px; margin: auto;">
+<div class="fs_modal-2_content">
+  <h2 id="fs-modal-2-heading" class="fs_modal-2_heading small-heading">СТАРТ КУРСУ ОДРАЗУ ПІСЛЯ ОПЛАТИ</h2>
+  <h2 id="fs-modal-2-heading" class="fs_modal-2_heading">УВАГА! ПРИ ОПЛАТІ У КОМЕНТАРЯХ ДО ПЛАТЕЖУ ВКАЖІТЬ ЛОГІН @Telegram</h2>
+  <h2 id="fs-modal-2-heading" class="fs_modal-2_heading small-heading">ПІСЛЯ ОПЛАТИ З ВАМИ ЗВ'ЯЖЕТЬСЯ МЕНЕДЖЕР</h2>
+  <div id="w-node-_9aee4161-fc3e-263c-5695-540d0aa36655-899fceaf" class="fs_modal-2_price">
+    <div class="fs_modal-2_price-1">290 ₴</div>
+    <div class="fs_modal-2_price-div">
+      <div class="fs_modal-2_price-2">3000 ₴</div><img src="images/Group-326.svg" loading="lazy" alt="" class="fs_modal-2_price-image">
+    </div>
+  </div>
+  <div class="form_component-2 w-form">
+    <div class="form_field-wrapper-2">
+        <form id="telegramForm" style="display: flex; flex-direction: column; gap: 10px;">
+          <input type="text" id="telegramLogin" name="telegramLogin" placeholder="Введіть ваш Telegram логін" required style="padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
+          <button type="submit" class="button is-form-submit w-button" style="padding: 10px; border-radius: 5px; border: none; background-color: #007BFF; color: white;">ОТРИМАТИ ДОСТУП</button>
+        </form>
+    </div>
+  </div>
+  <div id="w-node-_88f9fb82-1211-6f25-0ec2-9729d8c8a01d-899fceaf" class="text-size-regular text-weight-semibold">До закінчення акції залишилось:</div>
+  <div class="timer-text is-timer">00:00:00</div>
+  <div id="w-node-b0ce3f9f-2c6e-137d-e422-abe560913b1d-899fceaf" class="text-align-center">P.S. Ви нічим не ризикуєте! Гарантія поверення коштів - 14 днів, якщо курс Вам не підійде</div>
+</div>
+<div aria-expanded="false" fs-modal-element="close-1" role="button" tabindex="0" aria-label="Close modal" aria-controls="fs-modal-2-popup" aria-roledescription="close-modal-trigger" class="fs_modal-2_close">
+  <div class="fs_modal-2_close-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" viewbox="0 0 24 24">
+      <path fill="CurrentColor" d="M14.5,12l9-9c0.7-0.7,0.7-1.8,0-2.5c-0.7-0.7-1.8-0.7-2.5,0l-9,9l-9-9c-0.7-0.7-1.8-0.7-2.5,0 c-0.7,0.7-0.7,1.8,0,2.5l9,9l-9,9c0.7-0.7-0.7-1.8,0-2.5c0.7-0.7,1.8-0.7,2.5,0l9-9l9,9c0.7-0.7,1.8-0.7,2.5,0 c0.7-0.7,0.7-1.8,0-2.5L14.5,12z"></path>
+    </svg></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=65e79368b833ff23c39f9616" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="js/webflow.js" type="text/javascript"></script>
+<script src="https://code.prplus.com.ua/webhook.js"></script>
+<script src="maska-nomera.js" type="text/javascript"></script>
+<script>
+document.getElementById('telegramForm').addEventListener('submit', function(event) {
+event.preventDefault();
+var telegramLogin = document.getElementById('telegramLogin').value;
+// Надіслати Telegram логін до вашого Telegram
+fetch('https://api.telegram.org/bot7466454242:AAFwNeJWbEiO25TiPPJMc2clxJNQZCUlD00/sendMessage', {
+method: 'POST',
+headers: {
+'Content-Type': 'application/json'
+},
+body: JSON.stringify({
+chat_id: '-1002228637290',
+text: 'Новий користувач: ' + telegramLogin
+})
+}).then(response => {
+if (response.ok) {
+window.location.href = 'https://send.monobank.ua/4vS6JGtH8m';
+} else {
+alert('Помилка при надсиланні логіну в Telegram.');
+}
+});
+});
+</script>
+<script>
+$('.p-mask').mask('+38 (099) 999-99-99');
+$.fn.setCursorPosition = function(pos) {
+  if ($(this).get(0).setSelectionRange) {
+    $(this).get(0).setSelectionRange(pos, pos);
+  } else if ($(this).get(0).createTextRange) {
+    var range = $(this).get(0).createTextRange();
+    range.collapse(true);
+    range.moveEnd('character', pos);
+    range.moveStart('character', pos);
+    range.select();
+  }
+};
+$('input[type="tel"]').click(function(){
+    $(this).setCursorPosition(5);  // set position number
+  });
+</script>
+  <script src="https://cdn.plyr.io/3.7.2/plyr.js"></script>
+  <script>
+$(".plyr_component").each(function (index) {
+  let thisComponent = $(this);
+  // create plyr settings
+  let player = new Plyr(thisComponent.find(".plyr_video")[0], {
+    controls: ["play", "progress", "current-time", "mute", "fullscreen"],
+    resetOnEnd: true
+  });
+  // custom video cover
+  thisComponent.find(".plyr_cover").on("click", function () {
+    player.play();
+  });
+  player.on("ended", (event) => {
+    thisComponent.removeClass("hide-cover");
+  });
+  // pause other playing videos when this one starts playing
+  player.on("play", (event) => {
+		$(".plyr_component").removeClass("hide-cover");
+    thisComponent.addClass("hide-cover");
+    let prevPlayingComponent = $(".plyr--playing").closest(".plyr_component").not(thisComponent);
+    if (prevPlayingComponent.length > 0) {
+      prevPlayingComponent.find(".plyr_pause-trigger")[0].click();
+    }
+  });
+  thisComponent.find(".plyr_pause-trigger").on("click", function () {
+    player.pause();
+  });
+  // exit full screen when video ends
+  player.on("ended", (event) => {
+    if (player.fullscreen.active) {
+      player.fullscreen.exit();
+    }
+  });
+  // set video to contain instead of cover when in full screen mode
+  player.on("enterfullscreen", (event) => {
+    thisComponent.addClass("contain-video");
+  });
+  player.on("exitfullscreen", (event) => {
+    thisComponent.removeClass("contain-video");
+  });
+});
+</script>
+  <script src="https://code.prplus.com.ua/date-2.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+  <script>
+$('.video').magnificPopup({
+	type: 'iframe'        
+});
+</script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script>
+var mySwiper = new Swiper (".swiper_component", {
+ 	slidesPerView: 2,
+  slidesPerGroup: 1,
+  grabCursor:true,
+  a11y: false,
+  spaceBetween: 28,
+  allowTouchMove: true,
+  loop: true,
+  pagination: {
+        el: ".swiper_pagination",
+        dynamicBullets: true,
+      },
+  navigation: {
+  nextEl: ".swiper_button-next",
+  prevEl: ".swiper_button-prev",
+		},
+     breakpoints: {
+      0: { /* when window >=0px - webflow mobile landscape/portriat */
+          slidesPerView: 1.2,
+         slidesPerGroup:1,
+        spaceBetween: 28,
+      },
+          480: { /* when window >=0px - webflow mobile landscape/portriat */
+          slidesPerView: 1.5,
+         slidesPerGroup:1,
+        spaceBetween: 28,
+      },
+      767: { /* when window >= 767px - webflow tablet */
+            slidesPerView: 2,
+         slidesPerGroup:1,
+        spaceBetween: 28,
+      },
+      992: { /* when window >= 988px - webflow desktop */
+         slidesPerView: 2,
+         slidesPerGroup:1,
+        spaceBetween: 28,
+      }
+    },
+      });
+</script>
+  <script>
+  var count = 10;
+  started = false;
+  function start() {
+    if (started) {return};
+    var start_time = new Date(); 
+    var stop_time = start_time.setMinutes(start_time.getMinutes() + count); 
+    var timers = document.querySelectorAll(".timer-text");
+    timers.forEach(function(timer) {
+      var countdown = setInterval(function() {
+        var now = new Date().getTime();
+        var remain = stop_time - now; 
+        if (remain <= 0) {
+          clearInterval(countdown);
+          timer.innerHTML = "00:00:00";
+          return;
+        }
+        var min = Math.floor( (remain % (1000 * 60 * 60)) / (1000 * 60) );
+        var sec = Math.floor( (remain % (1000 * 60)) / 1000 );
+        sec = sec < 10 ? "0" + sec : sec;
+        timer.innerHTML = "00:0" + min + ":" + sec;
+      }, 1000);
+    });
+    started = true;
+  }
+  document.addEventListener("DOMContentLoaded", function() {
+    start();
+  });
+</script>
+<script>
+$(document).ready(function() {
+    $("form").submit(function(event) {
+        event.preventDefault();
+        var form = $(this);
+        $.ajax({
+            type: "POST",
+            url: form.attr("action"),
+            data: form.serialize(),
+            success: function(response) {
+                console.log("Успешно: " + response);
+                // Только после успешного ответа перенаправляем пользователя
+                window.location.href = form.attr("data-redirect");
+            },
+            error: function(xhr, status, error) {
+                console.error("Ошибка: " + error);
+                alert("Произошла ошибка, попробуйте позже.");
+            }
+        });
+    });
+});
+</body>
+</html>

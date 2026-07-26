@@ -1,0 +1,98 @@
+/* UKRAINIAN THEME CSS */
+:root {
+  --ua-blue: #0057B7;
+  --ua-yellow: #FFD700;
+  --ua-dark-blue: #003c80;
+  --ua-light-yellow: #ffe666;
+}
+
+/* Base Body Update for fresh look */
+body {
+  background-color: #f7f9fa;
+}
+
+/* Button overrides */
+.button {
+  background-color: var(--ua-yellow) !important;
+  color: var(--ua-dark-blue) !important;
+  font-weight: 700;
+  border: 2px solid var(--ua-yellow) !important;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);
+}
+
+.button:hover {
+  background-color: var(--ua-dark-blue) !important;
+  color: var(--ua-yellow) !important;
+  border: 2px solid var(--ua-yellow) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 87, 183, 0.5);
+}
+
+/* Text Highlights */
+.text-weight-bold, .text-weight-semibold {
+  color: var(--ua-blue);
+}
+
+.hero_title_span {
+  background: linear-gradient(90deg, var(--ua-blue), var(--ua-yellow));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: none !important;
+}
+
+h2, h3 {
+  color: var(--ua-dark-blue) !important;
+}
+
+/* Accents & Borders */
+.plan_card, .bonuses_card, .faq_card, .mentor_card {
+  border-top: 4px solid var(--ua-blue) !important;
+  border-bottom: 4px solid var(--ua-yellow) !important;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* Icons */
+.card_heading_image_number {
+  color: var(--ua-blue) !important;
+}
+
+.heading_dot {
+  background-color: var(--ua-yellow) !important;
+}
+
+/* Modals */
+.fs_modal-2_wrapper {
+  border: 3px solid var(--ua-blue);
+  border-radius: 12px;
+  background-color: #fff;
+}
+
+.fs_modal-2_heading {
+  color: var(--ua-dark-blue) !important;
+}
+
+/* Special Elements */
+.timer-text {
+  color: var(--ua-yellow) !important;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+
+.section-timer-cta {
+  background: linear-gradient(135deg, var(--ua-blue) 0%, var(--ua-dark-blue) 100%) !important;
+}
+
+.section-timer-cta * {
+  color: #fff !important;
+}
+
+.section-timer-cta .button {
+  background-color: var(--ua-yellow) !important;
+  color: var(--ua-dark-blue) !important;
+}
+
+.section-timer-cta .button:hover {
+  background-color: #fff !important;
+  color: var(--ua-dark-blue) !important;
+}

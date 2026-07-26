@@ -3,41 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="TikTok Auto-Registration Bot Project">
-    <title>TikTok Bot - Автоматизация нового уровня</title>
+    <meta name="description" content="Telegram Style Bot Page">
+    <title>AutoReg Bot</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="background-animation"></div>
-    
-    <main class="glass-container">
-        <header>
-            <div class="logo">📱</div>
-            <h1>TikTok AutoReg</h1>
-        </header>
-
-        <section class="content">
-            <h2>Проект в разработке</h2>
-            <p>Скоро здесь появится крутой бот для автоматизации. Мы готовим магию!</p>
-            
-            <div class="features">
-                <div class="feature-card">
-                    <span class="icon">🚀</span>
-                    <h3>Быстро</h3>
-                </div>
-                <div class="feature-card">
-                    <span class="icon">🛡️</span>
-                    <h3>Безопасно</h3>
-                </div>
-                <div class="feature-card">
-                    <span class="icon">🤖</span>
-                    <h3>Умно</h3>
+    <div class="tg-app">
+        <header class="tg-header">
+            <div class="header-info">
+                <div class="avatar">🤖</div>
+                <div class="title-status">
+                    <h1>AutoReg Bot</h1>
+                    <span class="status">bot</span>
                 </div>
             </div>
-            
-            <button class="cta-button" onclick="alert('Скоро всё будет готово!')">Узнать больше</button>
-        </section>
-    </main>
+            <div class="header-actions">
+                <span class="icon-menu">⋮</span>
+            </div>
+        </header>
+
+        <main class="tg-chat">
+            <div class="message received">
+                <div class="message-content">
+                    Привет! Я бот для автоматизации. Чем могу помочь сегодня?
+                    <span class="time">10:00</span>
+                </div>
+            </div>
+
+            <div class="message sent">
+                <div class="message-content">
+                    Хочу запустить авторег! 🚀
+                    <span class="time">10:01<span class="ticks">✓✓</span></span>
+                </div>
+            </div>
+
+            <div class="message received">
+                <div class="message-content">
+                    Отлично! Проект сейчас находится в активной разработке. Скоро здесь появится мощный функционал.
+                    <span class="time">10:01</span>
+                </div>
+            </div>
+
+            <div class="center-date">
+                <span>Проект загружен на GitHub</span>
+            </div>
+        </main>
+
+        <footer class="tg-input-area">
+            <button class="attach-btn">📎</button>
+            <input type="text" placeholder="Написать сообщение..." disabled>
+            <button class="send-btn" onclick="alert('Бот пока в разработке!')">➤</button>
+        </footer>
+    </div>
 </body>
 </html>

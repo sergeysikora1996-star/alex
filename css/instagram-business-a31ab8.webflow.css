@@ -3854,15 +3854,16 @@ figcaption {
     left: auto;
     right: -10vw;
     overflow: hidden;
+    z-index: 1;
   }
 
   .mentor_image {
-    width: 88vw;
+    width: 75vw;
     max-width: none;
   }
 
   .mentor_image.is-size {
-    width: 85vw;
+    width: 72vw;
   }
 
   .mentor_image-text {

@@ -3856,12 +3856,12 @@ figcaption {
   }
 
   .mentor_image {
-    width: 52.78vw;
+    width: 68vw;
     max-width: none;
   }
 
   .mentor_image.is-size {
-    width: 46vw;
+    width: 65vw;
   }
 
   .mentor_image-text {

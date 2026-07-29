@@ -2882,6 +2882,7 @@ figcaption {
     position: absolute;
     top: max(-28vw, -134px);
     right: max(-5.28vw, -25.34px);
+    transform: rotate(18deg);
   }
 
   .section-timer {
@@ -3205,6 +3206,7 @@ figcaption {
     max-width: none;
     position: absolute;
     top: max(-27vw, -129px);
+    transform: rotate(18deg);
   }
 
   .bonuses_card {

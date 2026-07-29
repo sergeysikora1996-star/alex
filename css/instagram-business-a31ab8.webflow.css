@@ -3204,7 +3204,7 @@ figcaption {
     width: min(27.78vw, 133.34px);
     max-width: none;
     position: absolute;
-    top: max(-19.44vw, -93.31px);
+    top: max(-27vw, -129px);
   }
 
   .bonuses_card {

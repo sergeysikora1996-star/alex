@@ -3205,7 +3205,7 @@ figcaption {
     width: min(27.78vw, 133.34px);
     max-width: none;
     position: absolute;
-    top: max(-22vw, -105px);
+    top: max(-26vw, -125px);
     left: 50%;
     transform: translateX(-50%) rotate(18deg);
   }

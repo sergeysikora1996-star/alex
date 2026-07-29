@@ -3205,8 +3205,9 @@ figcaption {
     width: min(27.78vw, 133.34px);
     max-width: none;
     position: absolute;
-    top: max(-27vw, -129px);
-    transform: rotate(18deg);
+    top: max(-13.89vw, -66px);
+    left: 50%;
+    transform: translateX(-50%) rotate(18deg);
   }
 
   .bonuses_card {
